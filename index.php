@@ -67,3 +67,5 @@ if ($numeric1 > $numeric2){
 } else{
     echo 'сума однакова';
 }
+
+echo 'qwerty';
